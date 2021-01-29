@@ -13,6 +13,7 @@ After one to many times i forgot what the heigth of the atmosphere of a planet w
 4. Enjoy :)
 
 ## how to configure
+right click on the programming board and then `Advanced` > `Edit Lua parameters`
 
 ![alt text](https://raw.githubusercontent.com/rohimma/du-altitude-info/main/altitude-info-abcd.png?raw=true "example image")
 - panelName: change the name of the panel
