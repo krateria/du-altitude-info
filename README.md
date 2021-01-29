@@ -1,5 +1,5 @@
 # Dual Universe altitude info
-
+After one to many times i forgot what the heigth of the atmosphere of a planet was that i warped to i made a small info panel that shows that information
 
 
 ## Example
